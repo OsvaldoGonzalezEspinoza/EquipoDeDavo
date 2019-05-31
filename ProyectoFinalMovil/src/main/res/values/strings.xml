@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Adivinalo</string>
+    <string name="jugar">Jugar</string>
+    <string name="reiniciar">Reiniciar</string>
+</resources>
